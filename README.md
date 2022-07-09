@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**yaza-putu/yaza-putu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in Denpasar, Bali.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Now i'm make all web project with Laravel Framwork;
+- 🇮🇩 Planing learn Java and Spring Framwork;
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at **Harmoni Permata**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.dart`
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **laravel**, **development**
+- 📫 Reach me: [yaza](https://twitter.com/yaza91446384)
+- ⚡️ Fun fact: I'm a huge fan of Anime
