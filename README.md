@@ -5,6 +5,7 @@
 ##### NOW
 
 - ✨ Now i'm make all web project with Laravel Framwork;
+- 🤖 In some projects I build android or ios apps with flutter
 - 🇮🇩 Planing learn Java and Spring Framwork;
 - 🍑 What about this?
 
