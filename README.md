@@ -6,7 +6,7 @@
 
 - ✨ Now i'm make all web project with Laravel Framwork;
 - 🤖 In some projects I build android or ios apps with flutter
-- 🇮🇩 Planing learn Java and Spring Framwork;
+- 🇮🇩 Now i'm learn go-lang after learn basic java;
 - 🍑 What about this?
 
 ##### BIO
