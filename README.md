@@ -6,7 +6,7 @@
 
 - ✨ Now i'm make all web project with Laravel Framwork;
 - 🤖 In some projects I build android or ios apps with flutter
-- 🇮🇩 Now i'm learn go-lang after learn basic java;
+- 🇮🇩 In 2023 i will focus learn golang.
 - 🍑 What about this?
 
 ##### BIO
