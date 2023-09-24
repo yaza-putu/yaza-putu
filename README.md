@@ -15,6 +15,5 @@
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.dart`,`.go`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **laravel**, **golang**
-- 📫 Reach me: [twitter](https://twitter.com/yaza91446384)
-- 📫 Reach me: [linkedin](https://id.linkedin.com/in/putuyaza)
+- 📫 Reach me: [twitter](https://twitter.com/yaza91446384) , [linkedin](https://id.linkedin.com/in/putuyaza)
 - ⚡️ Fun fact: I'm a huge fan of Anime
