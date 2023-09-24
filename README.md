@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Denpasar, Bali.
+#### I'm a Backend Software Engineer working in Denpasar, Bali.
 
 ##### NOW
 
@@ -11,9 +11,9 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Harmoni Permata**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.dart`
+- 🏢 I'm currently working at **Henbuk**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.dart`,`.go`
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **laravel**, **development**
+- 💬 Ping me about **laravel**, **development**, **golang**
 - 📫 Reach me: [yaza](https://twitter.com/yaza91446384)
 - ⚡️ Fun fact: I'm a huge fan of Anime
