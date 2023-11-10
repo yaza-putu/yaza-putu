@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Backend Software Engineer working in Denpasar, Bali.
+#### I'm a Backend Software Engineer From Denpasar, Bali.
 
 ##### NOW
 
@@ -11,7 +11,6 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Henbuk**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.dart`,`.go`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **laravel**, **golang**
