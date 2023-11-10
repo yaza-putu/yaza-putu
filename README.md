@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Backend Software Engineer From Denpasar, Bali.
+#### I'm a Backend Software Engineer from Denpasar, Bali.
 
 ##### NOW
 
