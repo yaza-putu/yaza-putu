@@ -6,7 +6,7 @@
 
 - ✨ Now i'm make all web project with Laravel Framwork & Golang.
 - 🤖 in between times i make youtube to share knowlage.
-- 🇮🇩 In 2024, I will focus on deep diving into learning Golang and start exploring how to develop artificial intelligence
+- 🇮🇩 In 2025, I will focus on deep diving into learning Golang and start exploring how to develop artificial intelligence
 - 🍑 What about this?
 
 ##### BIO
